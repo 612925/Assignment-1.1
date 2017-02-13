@@ -1,0 +1,8 @@
+Horizontal Scaling and Vertical Scaling:
+Vertical Scaling :
+When data capacity (say 1TB) is increased to handle a higher volume of data(Say 50TB), or RAM/Processor of the system
+is increased/improved for a Single System. There is no need management but cost is very high and high risk of data loss.
+Horizontal Scaling:
+When multiple systems are introduced/adopted to handle higher volume of data or to improve the performance,it is said to be 
+horizontally scaled. The processing speed is very high since data is distributed over large of number of CPUs.
+There is a necessity to manage the architecture of the multiple instances.
