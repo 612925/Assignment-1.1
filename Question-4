@@ -1,0 +1,10 @@
+Need and Working of Hadoop:
+When datas are to be stored on different instances, it is very tedious for a human to manage all the system and 
+becomes impossible for him to analyze the data stored. A framework which is capable of overcoming these odds is inevitable.
+Hadoop is one such framework which is open source, reliable and scalable.
+
+Working of Hadoop:
+It is based on Google File System.
+It has its own distributed file system called as Hadoop Distributed File System or HDFS, which
+enhances fast data transfer between the distributed computers.
+A Distributed computation framework called MapReduce is responsible for analyzing/processing of datas.
