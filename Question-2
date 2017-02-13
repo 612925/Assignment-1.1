@@ -1,0 +1,18 @@
+3 V's of Big Data: 
+Volume
+We are witnessing a rapid and exponential growth in datas including media(Photos/Videos),As mentioned in the session Facebook
+colelcts more than hundred billion photos,growing at 7 petabytes of data everyday.With attributes like geo-tagging and ratings, useful infomation
+is collected which forms the base of big data.
+As the name Big Data suggests, it is easy to have terabytes and petabytes of data flowing in/out everyday. 
+A simple information such as Atm swipes is analyzed at various angles and saved in different formats and different purposes.
+For example: A person uses atm every 3 days at petrol bunks, this data is useful for introduction of offers/schemes that 
+would attract customers of this type.
+
+Velocity
+A simple example for this would be news feed in facebook, it is quite astonishing to see how many posts are generated even for a 
+person having 300 friends and liked 10-20 pages.
+Not only on social media,the velocity of data accumulation is higher in banking and so many other applicaitons.
+
+Variety
+With CCTVs/Mobile Apps/Gps, it is not neccessarily that data comes in only text format. It is one of the key feature of big data system 
+to handle the variety and make it meaningful for the organisation.
